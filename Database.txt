@@ -1,0 +1,871 @@
+Name,Nationality,Championships,Entries,Starts,Poles,Wins,Podiums,Fastest,Points
+Carlo Abate, Italy,0,3,0,0,0,0,0,0
+George Abecassis, United Kingdom,0,2,2,0,0,0,0,0
+Kenny Acheson, United Kingdom,0,10,3,0,0,0,0,0
+Andrea de Adamich, Italy,0,36,30,0,0,0,0,6
+Philippe Adams, Belgium,0,2,2,0,0,0,0,0
+Walt Ader, United States,0,1,1,0,0,0,0,0
+Kurt Adolff, West Germany,0,1,1,0,0,0,0,0
+Fred Agabashian, United States,0,9,8,1,0,0,0,1.5
+Kurt Ahrens Jr., West Germany,0,4,4,0,0,0,0,0
+Jack Aitken, United Kingdom,0,1,1,0,0,0,0,0
+Christijan Albers, Netherlands,0,46,46,0,0,0,0,4
+Alexander Albon, Thailand,0,106,104,0,0,2,0,240
+Michele Alboreto, Italy,0,215,194,2,5,23,5,186.5
+Jean Alesi, France,0,202,201,2,1,32,4,241
+Jaime Alguersuari, Spain,0,46,46,0,0,0,0,31
+Philippe Alliot, France,0,116,109,0,0,0,0,7
+Cliff Allison, United Kingdom,0,18,16,0,0,1,0,11
+Fernando Alonso, Spain,2,404,401,22,32,106,26,2337
+Giovanna Amati, Italy,0,3,0,0,0,0,0,0
+George Amick, United States,0,2,1,0,0,1,0,6
+Red Amick, United States,0,2,2,0,0,0,0,0
+Chris Amon, New Zealand,0,108,96,5,0,11,3,83
+Bob Anderson, United Kingdom,0,29,25,0,0,1,0,8
+Conny Andersson, Sweden,0,5,1,0,0,0,0,0
+Emil Andres, United States,0,1,0,0,0,0,0,0
+Mario Andretti, United States,1,131,128,18,12,19,10,180
+Michael Andretti, United States,0,13,13,0,0,1,0,7
+Keith Andrews, United States,0,3,2,0,0,0,0,0
+Elio de Angelis, Italy,0,109,108,3,2,9,0,122
+Marco Apicella, Italy,0,1,1,0,0,0,0,0
+Mário de Araújo Cabral, Portugal,0,5,4,0,0,0,0,0
+Frank Armi, United States,0,3,1,0,0,0,0,0
+Chuck Arnold, United States,0,2,1,0,0,0,0,0
+René Arnoux, France,0,164,149,18,7,22,12,181
+Peter Arundell, United Kingdom,0,13,11,0,0,2,0,12
+Alberto Ascari, Italy,2,33,32,14,13,17,12,107.64
+Peter Ashdown, United Kingdom,0,1,1,0,0,0,0,0
+Ian Ashley, United Kingdom,0,11,4,0,0,0,0,0
+Gerry Ashmore, United Kingdom,0,4,3,0,0,0,0,0
+Bill Aston, United Kingdom,0,3,1,0,0,0,0,0
+Richard Attwood, United Kingdom,0,17,16,0,0,1,1,11
+Manny Ayulo, United States,0,6,4,0,0,1,0,2
+Luca Badoer, Italy,0,58,50,0,0,0,0,0
+Giancarlo Baghetti, Italy,0,21,21,0,1,1,1,14
+Julian Bailey, United Kingdom,0,20,7,0,0,0,0,1
+Mauro Baldi, Italy,0,41,36,0,0,0,0,5
+Bobby Ball, United States,0,2,2,0,0,0,0,2
+Marcel Balsa, France,0,1,1,0,0,0,0,0
+Lorenzo Bandini, Italy,0,42,42,1,1,8,2,58
+Henry Banks, United States,0,5,3,0,0,0,0,0
+Fabrizio Barbazza, Italy,0,20,8,0,0,0,0,2
+John Barber, United Kingdom,0,1,1,0,0,0,0,0
+Skip Barber, United States,0,6,5,0,0,0,0,0
+Paolo Barilla, Italy,0,15,9,0,0,0,0,0
+Rubens Barrichello, Brazil,0,326,322,14,11,68,17,658
+Michael Bartels, Germany,0,4,0,0,0,0,0,0
+Edgar Barth, East Germany, West Germany,0,7,5,0,0,0,0,0
+Giorgio Bassi, Italy,0,1,1,0,0,0,0,0
+Erwin Bauer, West Germany,0,1,1,0,0,0,0,0
+Zsolt Baumgartner, Hungary,0,20,20,0,0,0,0,1
+Élie Bayol, France,0,8,7,0,0,0,0,2
+Oliver Bearman, United Kingdom,0,3,3,0,0,0,0,7
+Don Beauman, United Kingdom,0,1,1,0,0,0,0,0
+Karl-Günther Bechem, West Germany,0,2,2,0,0,0,0,0
+Jean Behra, France,0,53,52,0,0,9,1,51.139999
+Derek Bell, United Kingdom,0,16,9,0,0,0,0,1
+Stefan Bellof, West Germany,0,22,20,0,0,0,0,4
+Paul Belmondo, France,0,27,7,0,0,0,0,0
+Tom Belsø, Denmark,0,5,2,0,0,0,0,0
+Jean-Pierre Beltoise, France,0,88,86,0,1,8,4,77
+Olivier Beretta, Monaco,0,10,9,0,0,0,0,0
+Allen Berg, Canada,0,9,9,0,0,0,0,0
+Georges Berger, Belgium,0,2,2,0,0,0,0,0
+Gerhard Berger, Austria,0,210,210,12,10,48,21,385
+Éric Bernard, France,0,47,45,0,0,1,0,10
+Enrique Bernoldi, Brazil,0,29,28,0,0,0,0,0
+Enrico Bertaggia, Italy,0,6,0,0,0,0,0,0
+Tony Bettenhausen, United States,0,11,11,0,0,1,1,11
+Mike Beuttler, United Kingdom,0,29,28,0,0,0,0,0
+Birabongse Bhanudej, Thailand,0,19,19,0,0,0,0,8
+Jules Bianchi, France,0,34,34,0,0,0,0,2
+Lucien Bianchi, Belgium,0,19,17,0,0,1,0,6
+Gino Bianco, Brazil,0,4,4,0,0,0,0,0
+Hans Binder, Austria,0,15,13,0,0,0,0,0
+Clemente Biondetti, Italy,0,1,1,0,0,0,0,0
+Pablo Birger, Argentina,0,2,2,0,0,0,0,0
+Art Bisch, United States,0,1,1,0,0,0,0,0
+Harry Blanchard, United States,0,1,1,0,0,0,0,0
+Michael Bleekemolen, Netherlands,0,5,1,0,0,0,0,0
+Alex Blignaut, South Africa,0,1,0,0,0,0,0,0
+Trevor Blokdyk, South Africa,0,2,1,0,0,0,0,0
+Mark Blundell, United Kingdom,0,63,61,0,0,3,0,32
+Raul Boesel, Brazil,0,30,23,0,0,0,0,0
+Menato Boffa, Italy,0,1,0,0,0,0,0,0
+Bob Bondurant, United States,0,9,9,0,0,0,0,3
+Felice Bonetto, Italy,0,16,15,0,0,2,0,17.5
+Jo Bonnier, Sweden,0,108,104,1,1,1,0,39
+Roberto Bonomi, Argentina,0,1,1,0,0,0,0,0
+Juan Manuel Bordeu, Argentina,0,1,0,0,0,0,0,0
+Slim Borgudd, Sweden,0,15,10,0,0,0,0,1
+Luki Botha, South Africa,0,1,1,0,0,0,0,0
+Valtteri Bottas, Finland,0,247,246,20,10,67,19,1797
+Jean-Christophe Boullion, France,0,11,11,0,0,0,0,3
+Sébastien Bourdais, France,0,27,27,0,0,0,0,6
+Thierry Boutsen, Belgium,0,164,163,1,3,15,1,132
+Johnny Boyd, United States,0,6,6,0,0,1,0,4
+David Brabham, Australia,0,30,24,0,0,0,0,0
+Gary Brabham, Australia,0,2,0,0,0,0,0,0
+Jack Brabham, Australia,3,128,126,13,14,31,12,253
+Bill Brack, Canada,0,3,3,0,0,0,0,0
+Ernesto Brambilla, Italy,0,2,0,0,0,0,0,0
+Vittorio Brambilla, Italy,0,79,74,1,1,1,1,15.5
+Toni Branca,Switzerland,0,3,3,0,0,0,0,0
+Gianfranco Brancatelli, Italy,0,3,0,0,0,0,0,0
+Eric Brandon, United Kingdom,0,5,5,0,0,0,0,0
+Don Branson, United States,0,2,2,0,0,0,0,3
+Tom Bridger, United Kingdom,0,1,1,0,0,0,0,0
+Tony Brise, United Kingdom,0,10,10,0,0,0,0,1
+Chris Bristow, United Kingdom,0,4,4,0,0,0,0,0
+Peter Broeker, Canada,0,1,1,0,0,0,0,0
+Tony Brooks, United Kingdom,0,39,38,3,6,10,3,75
+Alan Brown, United Kingdom,0,9,8,0,0,0,0,2
+Walt Brown, United States,0,2,2,0,0,0,0,0
+Warwick Brown, Australia,0,1,1,0,0,0,0,0
+Adolf Brudes, West Germany,0,1,1,0,0,0,0,0
+Martin Brundle, United Kingdom,0,165,158,0,0,9,0,98
+Gianmaria Bruni, Italy,0,18,18,0,0,0,0,0
+Jimmy Bryan, United States,0,10,9,0,1,3,0,18
+Clemar Bucci, Argentina,0,5,5,0,0,0,0,0
+Ronnie Bucknum, United States,0,11,11,0,0,0,0,2
+Ivor Bueb, United Kingdom,0,6,5,0,0,0,0,0
+Sébastien Buemi,Switzerland,0,55,55,0,0,0,0,29
+Luiz Bueno, Brazil,0,1,1,0,0,0,0,0
+Ian Burgess, United Kingdom,0,20,16,0,0,0,0,0
+Luciano Burti, Brazil,0,15,14,0,0,0,0,0
+Roberto Bussinello, Italy,0,3,2,0,0,0,0,0
+Jenson Button, United Kingdom,1,309,306,8,15,50,8,1235
+Tommy Byrne, Ireland,0,5,2,0,0,0,0,0
+Giulio Cabianca, Italy,0,4,3,0,0,0,0,3
+Phil Cade, United States,0,1,0,0,0,0,0,0
+Alex Caffi, Italy,0,75,56,0,0,0,0,6
+John Campbell-Jones, United Kingdom,0,2,2,0,0,0,0,0
+Adrián Campos, Spain,0,21,17,0,0,0,0,0
+John Cannon, Canada,0,1,1,0,0,0,0,0
+Eitel Cantoni, Uruguay,0,3,3,0,0,0,0,0
+Bill Cantrell, United States,0,2,1,0,0,0,0,0
+Ivan Capelli, Italy,0,98,93,0,0,3,0,31
+Piero Carini, Italy,0,3,3,0,0,0,0,0
+Duane Carter, United States,0,8,8,0,0,1,0,6.5
+Eugenio Castellotti, Italy,0,14,14,1,0,3,0,19.5
+Johnny Cecotto, Venezuela,0,23,18,0,0,0,0,1
+Andrea de Cesaris, Italy,0,214,208,1,0,5,1,59
+François Cevert, France,0,47,46,0,1,13,2,89
+Eugène Chaboud, France,0,3,3,0,0,0,0,1
+Jay Chamberlain, United States,0,3,1,0,0,0,0,0
+Karun Chandhok, India,0,11,11,0,0,0,0,0
+Alain de Changy, Belgium,0,1,0,0,0,0,0,0
+Colin Chapman, United Kingdom,0,1,0,0,0,0,0,0
+Dave Charlton, South Africa,0,14,11,0,0,0,0,0
+Pedro Chaves, Portugal,0,13,0,0,0,0,0,0
+Bill Cheesbourg, United States,0,4,3,0,0,0,0,0
+Eddie Cheever, United States,0,143,132,0,0,9,0,70
+Andrea Chiesa,Switzerland,0,10,3,0,0,0,0,0
+Max Chilton, United Kingdom,0,35,35,0,0,0,0,0
+Ettore Chimeri, Venezuela,0,1,1,0,0,0,0,0
+Louis Chiron, Monaco,0,19,15,0,0,1,0,4
+Joie Chitwood, United States,0,1,1,0,0,0,0,1
+Bob Christie, United States,0,7,5,0,0,0,0,0
+Johnny Claes, Belgium,0,25,23,0,0,0,0,0
+David Clapham, South Africa,0,1,0,0,0,0,0,0
+Jim Clark, United Kingdom,2,73,72,33,25,32,28,255
+Kevin Cogan, United States,0,2,0,0,0,0,0,0
+Franco Colapinto, Argentina,0,9,9,0,0,0,0,5
+Peter Collins, United Kingdom,0,35,32,0,3,9,0,47
+Bernard Collomb, France,0,6,4,0,0,0,0,0
+Alberto Colombo, Italy,0,3,0,0,0,0,0,0
+Érik Comas, France,0,63,59,0,0,0,0,7
+Franco Comotti, Italy,0,2,2,0,0,0,0,0
+George Connor, United States,0,4,3,0,0,0,0,0
+George Constantine, United States,0,1,1,0,0,0,0,0
+John Cordts, Canada,0,1,1,0,0,0,0,0
+David Coulthard, United Kingdom,0,247,246,12,13,62,18,535
+Piers Courage, United Kingdom,0,29,27,0,0,2,0,20
+Chris Craft, United Kingdom,0,2,1,0,0,0,0,0
+Jim Crawford, United Kingdom,0,2,2,0,0,0,0,0
+Ray Crawford, United States,0,5,3,0,0,0,0,0
+Alberto Crespo, Argentina,0,1,0,0,0,0,0,0
+Antonio Creus, Spain,0,1,1,0,0,0,0,0
+Larry Crockett, United States,0,1,1,0,0,0,0,0
+Tony Crook, United Kingdom,0,2,2,0,0,0,0,0
+Art Cross, United States,0,4,4,0,0,1,0,8
+Geoffrey Crossley, United Kingdom,0,2,2,0,0,0,0,0
+Jérôme d'Ambrosio, Belgium,0,20,20,0,0,0,0,0
+Chuck Daigh, United States,0,6,3,0,0,0,0,0
+Yannick Dalmas, France,0,49,24,0,0,0,0,0
+Derek Daly, Ireland,0,64,49,0,0,0,0,15
+Christian Danner, West Germany,0,47,36,0,0,0,0,4
+Jorge Daponte, Argentina,0,3,2,0,0,0,0,0
+Anthony Davidson, United Kingdom,0,24,24,0,0,0,0,0
+Jimmy Davies, United States,0,8,5,0,0,1,0,4
+Colin Davis, United Kingdom,0,2,2,0,0,0,0,0
+Jimmy Daywalt, United States,0,10,6,0,0,0,0,0
+Jean-Denis Délétraz,Switzerland,0,3,3,0,0,0,0,0
+Patrick Depailler, France,0,95,95,1,2,19,4,139
+Pedro Diniz, Brazil,0,99,98,0,0,0,0,10
+Duke Dinsmore, United States,0,6,4,0,0,0,0,0
+Frank Dochnal, United States,0,1,0,0,0,0,0,0
+José Dolhem, France,0,3,1,0,0,0,0,0
+Martin Donnelly, United Kingdom,0,15,13,0,0,0,0,0
+Mark Donohue, United States,0,16,14,0,0,1,0,8
+Jack Doohan, Australia,0,1,1,0,0,0,0,0
+Robert Doornbos, Monaco, Netherlands,0,11,11,0,0,0,0,0
+Ken Downing, United Kingdom,0,2,2,0,0,0,0,0
+Bob Drake, United States,0,1,1,0,0,0,0,0
+Paddy Driver, South Africa,0,2,1,0,0,0,0,0
+Piero Drogo, Italy,0,1,1,0,0,0,0,0
+Bernard de Dryver, Belgium,0,2,0,0,0,0,0,0
+Johnny Dumfries, United Kingdom,0,16,15,0,0,0,0,3
+Len Duncan, United States,0,4,1,0,0,0,0,0
+Piero Dusio, Italy,0,1,0,0,0,0,0,0
+George Eaton, Canada,0,13,11,0,0,0,0,0
+Bernie Ecclestone, United Kingdom,0,2,0,0,0,0,0,0
+Don Edmunds, United States,0,2,1,0,0,0,0,0
+Guy Edwards, United Kingdom,0,17,11,0,0,0,0,0
+Vic Elford, United Kingdom,0,13,13,0,0,0,0,8
+Ed Elisian, United States,0,5,5,0,0,0,0,0
+Paul Emery, United Kingdom,0,2,1,0,0,0,0,0
+Tomáš Enge, Czech Republic,0,3,3,0,0,0,0,0
+Paul England, Australia,0,1,1,0,0,0,0,0
+Marcus Ericsson, Sweden,0,97,97,0,0,0,0,18
+Harald Ertl, Austria,0,28,19,0,0,0,0,0
+Nasif Estéfano, Argentina,0,2,1,0,0,0,0,0
+Philippe Étancelin, France,0,12,12,0,0,0,0,3
+Bob Evans, United Kingdom,0,12,10,0,0,0,0,0
+Corrado Fabi, Italy,0,18,12,0,0,0,0,0
+Teo Fabi, Italy,0,71,64,3,0,2,2,23
+Pascal Fabre, France,0,14,11,0,0,0,0,0
+Carlo Facetti, Italy,0,1,0,0,0,0,0,0
+Luigi Fagioli, Italy,0,7,7,0,1,6,0,28
+Jack Fairman, United Kingdom,0,13,12,0,0,0,0,5
+Juan Manuel Fangio, Argentina,5,52,51,29,24,35,23,245
+Nino Farina, Italy,1,34,33,5,5,20,5,115.33
+Walt Faulkner, United States,0,6,5,1,0,0,0,1
+William Ferguson, South Africa,0,1,0,0,0,0,0,0
+Maria Teresa de Filippis, Italy,0,5,3,0,0,0,0,0
+Ralph Firman, Ireland,0,15,14,0,0,0,0,1
+Ludwig Fischer, West Germany,0,1,0,0,0,0,0,0
+Rudi Fischer,Switzerland,0,8,7,0,0,2,0,10
+Mike Fisher, United States,0,2,1,0,0,0,0,0
+Giancarlo Fisichella, Italy,0,231,229,4,3,19,2,275
+John Fitch, United States,0,2,2,0,0,0,0,0
+Christian Fittipaldi, Brazil,0,43,40,0,0,0,0,12
+Emerson Fittipaldi, Brazil,2,149,144,6,14,35,6,281
+Pietro Fittipaldi, Brazil,0,2,2,0,0,0,0,0
+Wilson Fittipaldi, Brazil,0,38,35,0,0,0,0,3
+Theo Fitzau, East Germany,0,1,1,0,0,0,0,0
+Pat Flaherty, United States,0,6,6,1,1,1,0,8
+Jan Flinterman, Netherlands,0,1,1,0,0,0,0,0
+Ron Flockhart, United Kingdom,0,14,14,0,0,1,0,5
+Myron Fohr, United States,0,1,1,0,0,0,0,0
+Gregor Foitek,Switzerland,0,22,7,0,0,0,0,0
+George Follmer, United States,0,13,12,0,0,1,0,5
+George Fonder, United States,0,5,2,0,0,0,0,0
+Norberto Fontana, Argentina,0,4,4,0,0,0,0,0
+Asdrúbal Fontes Bayardo, Uruguay,0,1,0,0,0,0,0,0
+Carl Forberg, United States,0,3,1,0,0,0,0,0
+Gene Force, United States,0,5,2,0,0,0,0,0
+Franco Forini,Switzerland,0,3,2,0,0,0,0,0
+Philip Fotheringham-Parker, United Kingdom,0,1,1,0,0,0,0,0
+A. J. Foyt, United States,0,3,3,0,0,0,0,0
+Giorgio Francia, Italy,0,2,0,0,0,0,0,0
+Don Freeland, United States,0,8,8,0,0,1,0,4
+Heinz-Harald Frentzen, Germany,0,160,156,2,3,18,6,174
+Paul Frère, Belgium,0,11,11,0,0,1,0,11
+Patrick Friesacher, Austria,0,11,11,0,0,0,0,3
+Joe Fry, United Kingdom,0,1,1,0,0,0,0,0
+Hiroshi Fushida, Japan,0,2,0,0,0,0,0,0
+Beppe Gabbiani, Italy,0,17,3,0,0,0,0,0
+Bertrand Gachot, Belgium, France,0,84,47,0,0,0,1,5
+Patrick Gaillard, France,0,5,2,0,0,0,0,0
+Divina Galica, United Kingdom,0,3,0,0,0,0,0,0
+Nanni Galli, Italy,0,20,17,0,0,0,0,0
+Oscar Alfredo Gálvez, Argentina,0,1,1,0,0,0,0,2
+Fred Gamble, United States,0,1,1,0,0,0,0,0
+Howden Ganley, New Zealand,0,41,35,0,0,0,0,10
+Giedo van der Garde, Netherlands,0,19,19,0,0,0,0,0
+Frank Gardner, Australia,0,9,8,0,0,0,0,0
+Billy Garrett, United States,0,3,2,0,0,0,0,0
+Jo Gartner, Austria,0,8,8,0,0,0,0,0
+Pierre Gasly, France,0,154,153,0,1,5,3,436
+Tony Gaze, Australia,0,4,3,0,0,0,0,0
+Geki, Italy,0,3,2,0,0,0,0,0
+Olivier Gendebien, Belgium,0,15,14,0,0,2,0,18
+Marc Gené, Spain,0,36,36,0,0,0,0,5
+Elmer George, United States,0,3,1,0,0,0,0,0
+Bob Gerard, United Kingdom,0,8,8,0,0,0,0,0
+Gerino Gerini, Italy,0,7,6,0,0,0,0,1.5
+Peter Gethin, United Kingdom,0,31,30,0,1,1,0,11
+Piercarlo Ghinzani, Italy,0,111,74,0,0,0,0,2
+Bruno Giacomelli, Italy,0,82,69,1,0,1,0,14
+Dick Gibson, United Kingdom,0,2,2,0,0,0,0,0
+Gimax, Italy,0,1,0,0,0,0,0,0
+Richie Ginther, United States,0,54,52,0,1,14,3,102
+Antonio Giovinazzi, Italy,0,62,62,0,0,0,0,21
+Yves Giraud-Cabantous, France,0,13,13,0,0,0,0,5
+Ignazio Giunti, Italy,0,4,4,0,0,0,0,3
+Timo Glock, Germany,0,95,91,0,0,3,1,51
+Helm Glöckler, West Germany,0,1,0,0,0,0,0,0
+Paco Godia, Spain,0,14,13,0,0,0,0,6
+Carel Godin de Beaufort, Netherlands,0,31,28,0,0,0,0,4
+Christian Goethals, Belgium,0,1,1,0,0,0,0,0
+Paul Goldsmith, United States,0,3,3,0,0,1,0,6
+José Froilán González, Argentina,0,26,26,3,2,15,6,72.139999
+Óscar González, Uruguay,0,1,1,0,0,0,0,0
+Aldo Gordini, France,0,1,1,0,0,0,0,0
+Horace Gould, United Kingdom,0,18,14,0,0,0,0,2
+Jean-Marc Gounon, France,0,9,9,0,0,0,0,0
+Emmanuel de Graffenried,Switzerland,0,23,22,0,0,0,0,9
+Lucas di Grassi, Brazil,0,19,18,0,0,0,0,0
+Cecil Green, United States,0,2,2,0,0,0,0,3
+Keith Greene, United Kingdom,0,6,3,0,0,0,0,0
+Masten Gregory, United States,0,43,38,0,0,3,0,21
+Cliff Griffith, United States,0,7,3,0,0,0,0,0
+Georges Grignard, France,0,1,1,0,0,0,0,0
+Bobby Grim, United States,0,2,2,0,0,0,0,0
+Romain Grosjean, France,0,181,179,0,0,10,1,391
+Olivier Grouillard, France,0,62,41,0,0,0,0,1
+Brian Gubby, United Kingdom,0,1,0,0,0,0,0,0
+André Guelfi, France,0,1,1,0,0,0,0,0
+Miguel Ángel Guerra, Argentina,0,4,1,0,0,0,0,0
+Roberto Guerrero, Colombia,0,29,21,0,0,0,0,0
+Maurício Gugelmin, Brazil,0,80,74,0,0,1,1,10
+Dan Gurney, United States,0,87,86,3,4,19,6,133
+Esteban Gutiérrez, Mexico,0,59,59,0,0,0,1,6
+Hubert Hahne, West Germany,0,3,2,0,0,0,0,0
+Mike Hailwood, United Kingdom,0,50,50,0,0,2,1,29
+Mika Häkkinen, Finland,2,165,161,26,20,51,25,420
+Bruce Halford, United Kingdom,0,9,8,0,0,0,0,0
+Jim Hall, United States,0,12,11,0,0,0,0,3
+Duncan Hamilton, United Kingdom,0,5,5,0,0,0,0,0
+Lewis Hamilton, United Kingdom,7,356,356,104,105,202,67,4862.5
+David Hampshire, United Kingdom,0,2,2,0,0,0,0,0
+Sam Hanks, United States,0,8,8,0,1,4,0,20
+Walt Hansgen, United States,0,2,2,0,0,0,0,2
+Mike Harris, South Africa,0,1,1,0,0,0,0,0
+Cuth Harrison, United Kingdom,0,3,3,0,0,0,0,0
+Brian Hart, United Kingdom,0,1,0,0,0,0,0,0
+Brendon Hartley, New Zealand,0,25,25,0,0,0,0,4
+Gene Hartley, United States,0,10,8,0,0,0,0,0
+Rio Haryanto, Indonesia,0,12,12,0,0,0,0,0
+Masahiro Hasemi, Japan,0,1,1,0,0,0,0,0
+Naoki Hattori, Japan,0,2,0,0,0,0,0,0
+Paul Hawkins, Australia,0,3,3,0,0,0,0,0
+Mike Hawthorn, United Kingdom,1,47,45,4,3,18,6,112.64
+Boy Hayje, Netherlands,0,7,3,0,0,0,0,0
+Willi Heeks, West Germany,0,2,2,0,0,0,0,0
+Nick Heidfeld, Germany,0,185,183,1,0,13,2,259
+Theo Helfrich, West Germany,0,3,3,0,0,0,0,0
+Mack Hellings, United States,0,2,2,0,0,0,0,0
+Brian Henton, United Kingdom,0,37,19,0,0,0,1,0
+Johnny Herbert, United Kingdom,0,165,160,0,3,7,0,98
+Al Herman, United States,0,8,5,0,0,0,0,0
+Hans Herrmann, West Germany,0,19,17,0,0,1,1,10
+François Hesnault, France,0,21,19,0,0,0,0,0
+Hans Heyer, West Germany,0,1,1,0,0,0,0,0
+Damon Hill, United Kingdom,1,122,115,20,22,42,19,360
+Graham Hill, United Kingdom,2,179,176,13,14,36,10,270
+Phil Hill, United States,1,52,49,6,3,16,6,94
+Peter Hirt,Switzerland,0,5,5,0,0,0,0,0
+David Hobbs, United Kingdom,0,7,7,0,0,0,0,0
+Gary Hocking, Rhodesia and Nyasaland,0,1,0,0,0,0,0,0
+Ingo Hoffmann, Brazil,0,6,3,0,0,0,0,0
+Bill Holland, United States,0,3,2,0,0,1,0,6
+Jackie Holmes, United States,0,4,2,0,0,0,0,0
+Bill Homeier, United States,0,6,3,0,0,0,0,1
+Kazuyoshi Hoshino, Japan,0,2,2,0,0,0,0,0
+Jerry Hoyt, United States,0,4,4,1,0,0,0,0
+Nico Hülkenberg, Germany,0,230,227,1,0,0,2,571
+Denny Hulme, New Zealand,1,112,112,1,8,33,9,248
+James Hunt, United Kingdom,1,93,92,14,10,23,8,179
+Jim Hurtubise, United States,0,1,1,0,0,0,0,0
+Gus Hutchison, United States,0,1,1,0,0,0,0,0
+Jacky Ickx, Belgium,0,120,114,13,8,25,14,181
+Yuji Ide, Japan,0,4,4,0,0,0,0,0
+Jesús Iglesias, Argentina,0,1,1,0,0,0,0,0
+Taki Inoue, Japan,0,18,18,0,0,0,0,0
+Innes Ireland, United Kingdom,0,53,50,0,1,4,1,47
+Eddie Irvine, United Kingdom,0,148,145,0,4,26,1,191
+Chris Irwin, United Kingdom,0,10,10,0,0,0,0,2
+Jean-Pierre Jabouille, France,0,55,49,6,2,2,0,21
+Jimmy Jackson, United States,0,3,2,0,0,0,0,0
+Joe James, United States,0,3,2,0,0,0,0,0
+John James, United Kingdom,0,1,1,0,0,0,0,0
+Jean-Pierre Jarier, France,0,143,135,3,0,3,3,31.5
+Max Jean, France,0,1,1,0,0,0,0,0
+Stefan Johansson, Sweden,0,103,79,0,0,12,0,88
+Eddie Johnson, United States,0,9,9,0,0,0,0,1
+Leslie Johnson, United Kingdom,0,1,1,0,0,0,0,0
+Bruce Johnstone, South Africa,0,1,1,0,0,0,0,0
+Alan Jones, Australia,1,117,116,6,12,24,13,199
+Tom Jones, United States,0,1,0,0,0,0,0,0
+Juan Jover, Spain,0,1,0,0,0,0,0,0
+Oswald Karch, West Germany,0,1,1,0,0,0,0,0
+Narain Karthikeyan, India,0,48,46,0,0,0,0,5
+Ukyo Katayama, Japan,0,97,95,0,0,0,0,5
+Ken Kavanagh, Australia,0,2,0,0,0,0,0,0
+Rupert Keegan, United Kingdom,0,37,25,0,0,0,0,0
+Eddie Keizan, South Africa,0,3,3,0,0,0,0,0
+Al Keller, United States,0,6,5,0,0,0,0,0
+Joe Kelly, Ireland,0,2,2,0,0,0,0,0
+David Kennedy, Ireland,0,7,0,0,0,0,0,0
+Loris Kessel,Switzerland,0,6,3,0,0,0,0,0
+Bruce Kessler, United States,0,1,0,0,0,0,0,0
+Nicolas Kiesa, Denmark,0,5,5,0,0,0,0,0
+Leo Kinnunen, Finland,0,6,1,0,0,0,0,0
+Danny Kladis, United States,0,5,1,0,0,0,0,0
+Hans Klenk, West Germany,0,1,1,0,0,0,0,0
+Peter de Klerk, South Africa,0,4,4,0,0,0,0,0
+Christian Klien, Austria,0,51,49,0,0,0,0,14
+Karl Kling, West Germany,0,11,11,0,0,2,1,17
+Ernst Klodwig, East Germany,0,2,2,0,0,0,0,0
+Kamui Kobayashi, Japan,0,76,75,0,0,1,1,125
+Helmut Koinigg, Austria,0,3,2,0,0,0,0,0
+Heikki Kovalainen, Finland,0,112,111,1,1,4,2,105
+Mikko Kozarowitzky, Finland,0,2,0,0,0,0,0,0
+Willi Krakau, West Germany,0,1,0,0,0,0,0,0
+Rudolf Krause, East Germany,0,2,2,0,0,0,0,0
+Robert Kubica, Poland,0,99,99,1,1,12,1,274
+Kurt Kuhnke, West Germany,0,1,0,0,0,0,0,0
+Masami Kuwashima, Japan,0,1,0,0,0,0,0,0
+Daniil Kvyat, Russia,0,112,110,0,0,3,1,202
+Robert La Caze, Morocco,0,1,1,0,0,0,0,0
+Jacques Laffite, France,0,180,176,7,6,32,7,228
+Franck Lagorce, France,0,2,2,0,0,0,0,0
+Jan Lammers, Netherlands,0,41,23,0,0,0,0,0
+Pedro Lamy, Portugal,0,32,32,0,0,0,0,1
+Chico Landi, Brazil,0,6,6,0,0,0,0,1.5
+Hermann Lang, West Germany,0,2,2,0,0,0,0,2
+Claudio Langes, Italy,0,14,0,0,0,0,0,0
+Nicola Larini, Italy,0,75,49,0,0,1,0,7
+Oscar Larrauri, Argentina,0,21,8,0,0,0,0,0
+Gérard Larrousse, France,0,2,1,0,0,0,0,0
+Jud Larson, United States,0,5,2,0,0,0,0,0
+Nicholas Latifi, Canada,0,61,61,0,0,0,0,9
+Niki Lauda, Austria,3,177,171,24,25,54,24,420.5
+Roger Laurent, Belgium,0,2,2,0,0,0,0,0
+Giovanni Lavaggi, Italy,0,10,7,0,0,0,0,0
+Chris Lawrence, United Kingdom,0,2,2,0,0,0,0,0
+Liam Lawson, New Zealand,0,11,11,0,0,0,0,6
+Charles Leclerc, Monaco,0,149,147,26,8,43,10,1430
+Michel Leclère, France,0,8,7,0,0,0,0,0
+Neville Lederle, South Africa,0,2,1,0,0,0,0,1
+Geoff Lees, United Kingdom,0,12,5,0,0,0,0,0
+Gijs van Lennep, Netherlands,0,10,8,0,0,0,0,2
+Arthur Legat, Belgium,0,2,2,0,0,0,0,0
+JJ Lehto, Finland,0,70,62,0,0,1,0,10
+Lamberto Leoni, Italy,0,5,1,0,0,0,0,0
+Les Leston, United Kingdom,0,3,2,0,0,0,0,0
+Pierre Levegh, France,0,6,6,0,0,0,0,0
+Bayliss Levrett, United States,0,3,1,0,0,0,0,0
+Jackie Lewis, United Kingdom,0,10,9,0,0,0,0,3
+Stuart Lewis-Evans, United Kingdom,0,14,14,2,0,2,0,16
+Guy Ligier, France,0,13,12,0,0,0,0,1
+Andy Linden, United States,0,8,7,0,0,0,0,5
+Roberto Lippi, Italy,0,3,1,0,0,0,0,0
+Vitantonio Liuzzi, Italy,0,81,80,0,0,0,0,26
+Dries van der Lof, Netherlands,0,1,1,0,0,0,0,0
+Lella Lombardi, Italy,0,17,12,0,0,0,0,0.5
+Ricardo Londoño, Colombia,0,1,0,0,0,0,0,0
+Ernst Loof, West Germany,0,1,1,0,0,0,0,0
+André Lotterer, Germany,0,1,1,0,0,0,0,0
+Henri Louveau, France,0,2,2,0,0,0,0,0
+John Love, Rhodesia,0,10,9,0,0,1,0,6
+Pete Lovely, United States,0,11,7,0,0,0,0,0
+Roger Loyer, France,0,1,1,0,0,0,0,0
+Jean Lucas, France,0,1,1,0,0,0,0,0
+Jean Lucienbonnet, France,0,1,0,0,0,0,0,0
+Erik Lundgren, Sweden,0,1,0,0,0,0,0,0
+Brett Lunger, United States,0,43,34,0,0,0,0,0
+Mike MacDowel, United Kingdom,0,1,1,0,0,0,0,0
+Herbert MacKay-Fraser, United States,0,1,1,0,0,0,0,0
+Bill Mackey, United States,0,1,1,0,0,0,0,0
+Lance Macklin, United Kingdom,0,15,13,0,0,0,0,0
+Damien Magee, United Kingdom,0,2,1,0,0,0,0,0
+Tony Maggs, South Africa,0,27,25,0,0,3,0,26
+Mike Magill, United States,0,4,3,0,0,0,0,0
+Umberto Maglioli, Italy,0,10,10,0,0,2,0,3.3299999
+Jan Magnussen, Denmark,0,25,24,0,0,0,0,1
+Kevin Magnussen, Denmark,0,187,185,1,0,1,3,202
+Guy Mairesse, France,0,3,3,0,0,0,0,0
+Willy Mairesse, Belgium,0,13,12,0,0,1,0,7
+Pastor Maldonado, Venezuela,0,96,95,1,1,1,0,76
+Nigel Mansell, United Kingdom,1,191,187,32,31,59,30,480
+Sergio Mantovani, Italy,0,8,7,0,0,0,0,4
+Johnny Mantz, United States,0,1,0,0,0,0,0,0
+Robert Manzon, France,0,29,28,0,0,2,0,16
+Onofre Marimón, Argentina,0,12,11,0,0,2,1,8.1400003
+Helmut Marko, Austria,0,10,10,0,0,0,0,0
+Tarso Marques, Brazil,0,26,24,0,0,0,0,0
+Leslie Marr, United Kingdom,0,2,2,0,0,0,0,0
+Tony Marsh, United Kingdom,0,5,4,0,0,0,0,0
+Eugène Martin, France,0,2,2,0,0,0,0,0
+Pierluigi Martini, Italy,0,124,118,0,0,0,0,18
+Jochen Mass, West Germany,0,114,105,0,1,8,2,71
+Felipe Massa, Brazil,0,272,269,16,11,41,15,1167
+Cristiano da Matta, Brazil,0,28,28,0,0,0,0,13
+Michael May,Switzerland,0,3,2,0,0,0,0,0
+Timmy Mayer, United States,0,1,1,0,0,0,0,0
+Nikita Mazepin,Russia,0,22,21,0,0,0,0,0
+François Mazet, France,0,1,1,0,0,0,0,0
+Gastón Mazzacane, Argentina,0,21,21,0,0,0,0,0
+Kenneth McAlpine, United Kingdom,0,7,7,0,0,0,0,0
+Perry McCarthy, United Kingdom,0,11,0,0,0,0,0,0
+Ernie McCoy, United States,0,3,1,0,0,0,0,0
+Johnny McDowell, United States,0,3,3,0,0,0,0,0
+Jack McGrath, United States,0,6,6,1,0,2,1,9
+Brian McGuire, Australia,0,2,0,0,0,0,0,0
+Bruce McLaren, New Zealand,0,104,100,0,4,27,3,188.5
+Allan McNish, United Kingdom,0,17,16,0,0,0,0,0
+Graham McRae, New Zealand,0,1,1,0,0,0,0,0
+Jim McWithey, United States,0,5,2,0,0,0,0,0
+Carlos Menditeguy, Argentina,0,11,10,0,0,1,0,9
+Roberto Merhi, Spain,0,14,13,0,0,0,0,0
+Harry Merkel, West Germany,0,1,0,0,0,0,0,0
+Arturo Merzario, Italy,0,85,57,0,0,0,0,11
+Roberto Mieres, Argentina,0,17,17,0,0,0,1,13
+François Migault, France,0,16,13,0,0,0,0,0
+John Miles, United Kingdom,0,15,12,0,0,0,0,2
+André Milhoux, Belgium,0,1,1,0,0,0,0,0
+Chet Miller, United States,0,4,2,0,0,0,0,0
+Gerhard Mitter, West Germany,0,7,5,0,0,0,0,3
+Stefano Modena, Italy,0,81,70,0,0,2,0,17
+Thomas Monarch, United States,0,1,0,0,0,0,0,0
+Franck Montagny, France,0,7,7,0,0,0,0,0
+Tiago Monteiro, Portugal,0,37,37,0,0,1,0,7
+Andrea Montermini, Italy,0,29,19,0,0,0,0,0
+Peter Monteverdi,Switzerland,0,1,0,0,0,0,0,0
+Robin Montgomerie-Charrington, United Kingdom,0,1,1,0,0,0,0,0
+Juan Pablo Montoya, Colombia,0,95,94,13,7,30,12,307
+Gianni Morbidelli, Italy,0,70,67,0,0,1,0,8.5
+Roberto Moreno, Brazil,0,77,41,0,0,1,1,15
+Dave Morgan, United Kingdom,0,1,1,0,0,0,0,0
+Silvio Moser,Switzerland,0,20,12,0,0,0,0,3
+Bill Moss, United Kingdom,0,1,0,0,0,0,0,0
+Stirling Moss, United Kingdom,0,67,66,16,16,24,19,185.64
+Gino Munaron, Italy,0,4,4,0,0,0,0,0
+David Murray, United Kingdom,0,5,4,0,0,0,0,0
+Luigi Musso, Italy,0,25,24,0,1,7,1,44
+Kazuki Nakajima, Japan,0,36,36,0,0,0,0,9
+Satoru Nakajima, Japan,0,80,74,0,0,0,1,16
+Shinji Nakano, Japan,0,33,33,0,0,0,0,2
+Duke Nalon, United States,0,5,3,1,0,0,0,0
+Alessandro Nannini, Italy,0,78,76,0,1,9,2,65
+Emanuele Naspetti, Italy,0,6,6,0,0,0,0,0
+Felipe Nasr, Brazil,0,40,39,0,0,0,0,29
+Massimo Natili, Italy,0,2,1,0,0,0,0,0
+Brian Naylor, United Kingdom,0,8,7,0,0,0,0,0
+Mike Nazaruk, United States,0,4,3,0,0,1,0,8
+Tiff Needell, United Kingdom,0,2,1,0,0,0,0,0
+Jac Nellemann, Denmark,0,1,0,0,0,0,0,0
+Patrick Nève, Belgium,0,14,10,0,0,0,0,0
+John Nicholson, New Zealand,0,2,1,0,0,0,0,0
+Cal Niday, United States,0,3,3,0,0,0,0,0
+Helmut Niedermayr, West Germany,0,1,1,0,0,0,0,0
+Brausch Niemann, South Africa,0,2,1,0,0,0,0,0
+Gunnar Nilsson, Sweden,0,32,31,0,1,4,1,31
+Hideki Noda, Japan,0,3,3,0,0,0,0,0
+Lando Norris, United Kingdom,0,128,128,9,4,26,12,1007
+Rodney Nuckey, United Kingdom,0,2,1,0,0,0,0,0
+Robert O'Brien, United States,0,1,1,0,0,0,0,0
+Esteban Ocon, France,0,156,156,0,1,4,1,445
+Pat O'Connor, United States,0,6,5,1,0,0,0,0
+Casimiro de Oliveira, Portugal,0,1,0,0,0,0,0,0
+Jackie Oliver, United Kingdom,0,52,50,0,0,2,1,13
+Danny Ongais, United States,0,6,4,0,0,0,0,0
+Rikky von Opel, Liechtenstein,0,14,10,0,0,0,0,0
+Karl Oppitzhauser, Austria,0,1,0,0,0,0,0,0
+Fritz d'Orey, Brazil,0,3,3,0,0,0,0,0
+Arthur Owen, United Kingdom,0,1,1,0,0,0,0,0
+Carlos Pace, Brazil,0,73,72,1,1,6,5,58
+Nello Pagani, Italy,0,1,1,0,0,0,0,0
+Riccardo Paletti, Italy,0,8,2,0,0,0,0,0
+Torsten Palm, Sweden,0,2,1,0,0,0,0,0
+Jolyon Palmer, United Kingdom,0,37,35,0,0,0,0,9
+Jonathan Palmer, United Kingdom,0,88,83,0,0,0,1,14
+Olivier Panis, France,0,158,157,0,1,5,0,76
+Giorgio Pantano, Italy,0,15,14,0,0,0,0,0
+Massimiliano Papis, Italy,0,7,7,0,0,0,0,0
+Mike Parkes, United Kingdom,0,7,6,1,0,2,0,14
+Reg Parnell, United Kingdom,0,7,6,0,0,1,0,9
+Tim Parnell, United Kingdom,0,4,2,0,0,0,0,0
+Johnnie Parsons, United States,0,9,9,0,1,1,1,12
+Riccardo Patrese, Italy,0,257,256,8,6,37,13,281
+Al Pease, Canada,0,3,2,0,0,0,0,0
+Roger Penske, United States,0,2,2,0,0,0,0,0
+Cesare Perdisa, Italy,0,8,8,0,0,2,0,5
+Sergio Pérez, Mexico,0,285,281,3,6,39,12,1638
+Luis Pérez-Sala, Spain,0,32,26,0,0,0,0,1
+Larry Perkins, Australia,0,15,11,0,0,0,0,0
+Henri Pescarolo, France,0,64,57,0,0,1,1,12
+Alessandro Pesenti-Rossi, Italy,0,4,3,0,0,0,0,0
+Josef Peters, West Germany,0,1,1,0,0,0,0,0
+Ronnie Peterson, Sweden,0,123,123,14,10,26,9,206
+Vitaly Petrov, Russia,0,58,57,0,0,1,1,64
+Alfredo Pián, Argentina,0,1,0,0,0,0,0,0
+Oscar Piastri, Australia,0,46,46,0,2,10,3,389
+Charles Pic, France,0,39,39,0,0,0,0,0
+François Picard, France,0,1,1,0,0,0,0,0
+Ernie Pieterse, South Africa,0,3,2,0,0,0,0,0
+Paul Pietsch, West Germany,0,3,3,0,0,0,0,0
+André Pilette, Belgium,0,14,9,0,0,0,0,2
+Teddy Pilette, Belgium,0,4,1,0,0,0,0,0
+Luigi Piotti, Italy,0,8,5,0,0,0,0,0
+David Piper, United Kingdom,0,3,2,0,0,0,0,0
+Nelson Piquet, Brazil,3,207,204,24,23,60,23,481.5
+Nelson Piquet Jr., Brazil,0,28,28,0,0,1,0,19
+Renato Pirocchi, Italy,0,1,1,0,0,0,0,0
+Didier Pironi, France,0,72,70,4,3,13,5,101
+Emanuele Pirro, Italy,0,40,37,0,0,0,0,3
+Antônio Pizzonia, Brazil,0,20,20,0,0,0,0,8
+Eric van de Poele, Belgium,0,29,5,0,0,0,0,0
+Jacques Pollet, France,0,5,5,0,0,0,0,0
+Ben Pon, Netherlands,0,1,1,0,0,0,0,0
+Dennis Poore, United Kingdom,0,2,2,0,0,0,0,3
+Alfonso de Portago, Spain,0,5,5,0,0,1,0,4
+Sam Posey, United States,0,2,2,0,0,0,0,0
+Charles Pozzi, France,0,1,1,0,0,0,0,0
+Jackie Pretorius, South Africa,0,4,3,0,0,0,0,0
+Ernesto Prinoth, Italy,0,1,0,0,0,0,0,0
+David Prophet, United Kingdom,0,2,2,0,0,0,0,0
+Alain Prost, France,4,202,199,33,51,106,41,768.5
+Tom Pryce, United Kingdom,0,42,42,1,0,2,0,19
+David Purley, United Kingdom,0,11,7,0,0,0,0,0
+Clive Puzey, Rhodesia,0,1,0,0,0,0,0,0
+Dieter Quester, Austria,0,2,1,0,0,0,0,0
+Ian Raby, United Kingdom,0,7,3,0,0,0,0,0
+Bobby Rahal, United States,0,2,2,0,0,0,0,0
+Kimi Räikkönen, Finland,1,353,349,18,21,103,46,1873
+Hermano da Silva Ramos, Brazil,0,7,7,0,0,0,0,2
+Pierre-Henri Raphanel, France,0,17,1,0,0,0,0,0
+Dick Rathmann, United States,0,6,5,1,0,0,0,2
+Jim Rathmann, United States,0,10,10,0,1,4,2,29
+Roland Ratzenberger, Austria,0,3,1,0,0,0,0,0
+Héctor Rebaque, Mexico,0,58,41,0,0,0,0,13
+Brian Redman, United Kingdom,0,15,12,0,0,1,0,8
+Jimmy Reece, United States,0,6,6,0,0,0,0,0
+Ray Reed, Rhodesia,0,1,0,0,0,0,0,0
+Alan Rees, United Kingdom,0,1,1,0,0,0,0,0
+Clay Regazzoni,Switzerland,0,139,132,5,5,28,15,209
+Paul di Resta, United Kingdom,0,59,59,0,0,0,0,121
+Carlos Reutemann, Argentina,0,146,146,6,12,45,6,298
+Lance Reventlow, United States,0,4,1,0,0,0,0,0
+Peter Revson, United States,0,32,30,1,2,8,0,61
+John Rhodes, United Kingdom,0,1,1,0,0,0,0,0
+Alex Ribeiro, Brazil,0,20,10,0,0,0,0,0
+Daniel Ricciardo, Australia,0,258,257,3,8,32,17,1329
+Ken Richardson, United Kingdom,0,1,0,0,0,0,0,0
+Fritz Riess, West Germany,0,1,1,0,0,0,0,0
+Jim Rigsby, United States,0,2,1,0,0,0,0,0
+Jochen Rindt, Austria,1,62,60,10,6,13,3,107
+John Riseley-Prichard, United Kingdom,0,1,1,0,0,0,0,0
+Giovanni de Riu, Italy,0,1,0,0,0,0,0,0
+Richard Robarts, United Kingdom,0,4,3,0,0,0,0,0
+Pedro Rodríguez, Mexico,0,54,54,0,2,7,1,71
+Ricardo Rodríguez, Mexico,0,6,5,0,0,0,0,4
+Alberto Rodriguez Larreta, Argentina,0,1,1,0,0,0,0,0
+Franco Rol, Italy,0,5,5,0,0,0,0,0
+Alan Rollinson, United Kingdom,0,1,0,0,0,0,0,0
+Tony Rolt, United Kingdom,0,3,3,0,0,0,0,0
+Bertil Roos, Sweden,0,1,1,0,0,0,0,0
+Pedro de la Rosa, Spain,0,107,104,0,0,1,1,35
+Keke Rosberg, Finland,1,128,114,5,5,17,3,159.5
+Nico Rosberg, Germany,1,206,206,30,23,57,20,1594.5
+Mauri Rose, United States,0,2,2,0,0,1,0,4
+Louis Rosier, France,0,38,38,0,0,2,0,18
+Ricardo Rosset, Brazil,0,33,26,0,0,0,0,0
+Alexander Rossi, United States,0,7,5,0,0,0,0,0
+Huub Rothengatter, Netherlands,0,30,25,0,0,0,0,0
+Basil van Rooyen, South Africa,0,2,2,0,0,0,0,0
+Lloyd Ruby, United States,0,2,2,0,0,0,0,0
+Jean-Claude Rudaz,Switzerland,0,1,0,0,0,0,0,0
+George Russell, United Kingdom,0,128,128,5,3,15,8,714
+Eddie Russo, United States,0,7,4,0,0,0,0,0
+Paul Russo, United States,0,11,8,0,0,1,1,8.5
+Troy Ruttman, United States,0,12,8,0,1,1,0,9.5
+Peter Ryan, Canada,0,1,1,0,0,0,0,0
+Eddie Sachs, United States,0,7,4,1,0,0,0,0
+Bob Said, United States,0,1,1,0,0,0,0,0
+Carlos Sainz Jr., Spain,0,209,206,6,4,27,4,1272.5
+Eliseo Salazar, Chile,0,37,24,0,0,0,0,3
+Mika Salo, Finland,0,111,109,0,0,2,0,33
+Roy Salvadori, United Kingdom,0,50,47,0,0,2,0,19
+Consalvo Sanesi, Italy,0,5,5,0,0,0,0,3
+Stéphane Sarrazin, France,0,1,1,0,0,0,0,0
+Logan Sargeant, United States,0,37,36,0,0,0,0,1
+Takuma Sato, Japan,0,92,90,0,0,1,0,44
+Carl Scarborough, United States,0,2,2,0,0,0,0,0
+Ludovico Scarfiotti, Italy,0,12,10,0,1,1,1,17
+Giorgio Scarlatti, Italy,0,15,12,0,0,0,0,1
+Ian Scheckter, South Africa,0,20,18,0,0,0,0,0
+Jody Scheckter, South Africa,1,113,112,3,10,33,5,246
+Harry Schell, United States,0,57,56,0,0,2,0,32
+Tim Schenken, Australia,0,36,34,0,0,1,0,7
+Albert Scherrer,Switzerland,0,1,1,0,0,0,0,0
+Domenico Schiattarella, Italy,0,7,6,0,0,0,0,0
+Heinz Schiller,Switzerland,0,1,1,0,0,0,0,0
+Bill Schindler, United States,0,3,3,0,0,0,0,0
+Jean-Louis Schlesser, France,0,2,1,0,0,0,0,0
+Jo Schlesser, France,0,3,3,0,0,0,0,0
+Bernd Schneider, West Germany,0,34,9,0,0,0,0,0
+Rudolf Schoeller,Switzerland,0,1,1,0,0,0,0,0
+Rob Schroeder, United States,0,1,1,0,0,0,0,0
+Michael Schumacher, Germany,7,308,306,68,91,155,77,1566
+Mick Schumacher, Germany,0,44,43,0,0,0,0,12
+Ralf Schumacher, Germany,0,181,180,6,6,27,8,329
+Vern Schuppan, Australia,0,13,9,0,0,0,0,0
+Adolfo Schwelm Cruz, Argentina,0,1,1,0,0,0,0,0
+Bob Scott, United States,0,3,3,0,0,0,0,0
+Archie Scott Brown, United Kingdom,0,1,1,0,0,0,0,0
+Piero Scotti, Italy,0,1,1,0,0,0,0,0
+Wolfgang Seidel, West Germany,0,12,10,0,0,0,0,0
+Günther Seiffert, West Germany,0,1,0,0,0,0,0,0
+Ayrton Senna, Brazil,3,162,161,65,41,80,19,610
+Bruno Senna, Brazil,0,46,46,0,0,0,1,33
+Dorino Serafini, Italy,0,1,1,0,0,1,0,3
+Chico Serra, Brazil,0,33,18,0,0,0,0,1
+Doug Serrurier, South Africa,0,3,2,0,0,0,0,0
+Johnny Servoz-Gavin, France,0,13,12,0,0,1,0,9
+Tony Settember, United States,0,7,6,0,0,0,0,0
+Hap Sharp, United States,0,6,6,0,0,0,0,0
+Brian Shawe-Taylor, United Kingdom,0,3,2,0,0,0,0,0
+Carroll Shelby, United States,0,8,8,0,0,0,0,0
+Tony Shelly, New Zealand,0,3,1,0,0,0,0,0
+Jo Siffert,Switzerland,0,100,96,2,2,6,4,68
+André Simon, France,0,12,11,0,0,0,0,0
+Sergey Sirotkin, Russia,0,21,21,0,0,0,0,1
+Rob Slotemaker, Netherlands,0,1,0,0,0,0,0,0
+Moisés Solana, Mexico,0,8,8,0,0,0,0,0
+Alex Soler-Roig, Spain,0,10,6,0,0,0,0,0
+Raymond Sommer, France,0,5,5,0,0,0,0,3
+Vincenzo Sospiri, Italy,0,1,0,0,0,0,0,0
+Stephen South, United Kingdom,0,1,0,0,0,0,0,0
+Mike Sparken, France,0,1,1,0,0,0,0,0
+Scott Speed, United States,0,28,28,0,0,0,0,0
+Mike Spence, United Kingdom,0,37,36,0,0,1,0,27
+Alan Stacey, United Kingdom,0,7,7,0,0,0,0,0
+Gaetano Starrabba, Italy,0,1,1,0,0,0,0,0
+Will Stevens, United Kingdom,0,20,18,0,0,0,0,0
+Chuck Stevenson, United States,0,5,5,0,0,0,0,0
+Ian Stewart, United Kingdom,0,1,1,0,0,0,0,0
+Jackie Stewart, United Kingdom,3,100,99,17,27,43,15,359
+Jimmy Stewart, United Kingdom,0,1,1,0,0,0,0,0
+Siegfried Stohr, Italy,0,13,9,0,0,0,0,0
+Rolf Stommelen, West Germany,0,63,54,0,0,1,0,14
+Philippe Streiff, France,0,54,53,0,0,1,0,11
+Lance Stroll, Canada,0,169,166,1,0,3,0,292
+Hans Stuck, West Germany,0,5,3,0,0,0,0,0
+Hans-Joachim Stuck, West Germany,0,81,74,0,0,2,0,29
+Otto Stuppacher, Austria,0,3,0,0,0,0,0,0
+Danny Sullivan, United States,0,15,15,0,0,0,0,2
+Marc Surer,Switzerland,0,88,82,0,0,0,1,17
+John Surtees, United Kingdom,1,113,111,8,6,24,10,180
+Andy Sutcliffe, United Kingdom,0,1,0,0,0,0,0,0
+Adrian Sutil, Germany,0,128,128,0,0,0,1,124
+Len Sutton, United States,0,4,3,0,0,0,0,0
+Aguri Suzuki, Japan,0,88,65,0,0,1,0,8
+Toshio Suzuki, Japan,0,2,2,0,0,0,0,0
+Jacques Swaters, Belgium,0,8,7,0,0,0,0,0
+Bob Sweikert, United States,0,7,5,0,1,1,0,8
+Toranosuke Takagi, Japan,0,32,32,0,0,0,0,0
+Noritake Takahara, Japan,0,2,2,0,0,0,0,0
+Kunimitsu Takahashi, Japan,0,1,1,0,0,0,0,0
+Patrick Tambay, France,0,123,114,5,2,11,2,103
+Luigi Taramazzo, Italy,0,1,0,0,0,0,0,0
+Gabriele Tarquini, Italy,0,79,38,0,0,0,0,1
+Piero Taruffi, Italy,0,19,18,0,1,5,1,41
+Dennis Taylor, United Kingdom,0,1,0,0,0,0,0,0
+Henry Taylor, United Kingdom,0,11,8,0,0,0,0,3
+John Taylor, United Kingdom,0,5,5,0,0,0,0,1
+Mike Taylor, United Kingdom,0,2,1,0,0,0,0,0
+Trevor Taylor, United Kingdom,0,29,27,0,0,1,0,8
+Marshall Teague, United States,0,5,3,0,0,0,0,0
+Shorty Templeman, United States,0,5,3,0,0,0,0,0
+Max de Terra,Switzerland,0,2,2,0,0,0,0,0
+André Testut, Monaco,0,2,0,0,0,0,0,0
+Mike Thackwell, New Zealand,0,5,2,0,0,0,0,0
+Alfonso Thiele, United States,0,1,1,0,0,0,0,0
+Eric Thompson, United Kingdom,0,1,1,0,0,0,0,2
+Johnny Thomson, United States,0,8,8,1,0,1,1,10
+Leslie Thorne, United Kingdom,0,1,1,0,0,0,0,0
+Bud Tingelstad, United States,0,1,1,0,0,0,0,0
+Sam Tingle, Rhodesia,0,5,5,0,0,0,0,0
+Desmond Titterington, United Kingdom,0,1,1,0,0,0,0,0
+Johnnie Tolan, United States,0,7,3,0,0,0,0,0
+Alejandro de Tomaso, Argentina,0,2,2,0,0,0,0,0
+Charles de Tornaco, Belgium,0,4,2,0,0,0,0,0
+Tony Trimmer, United Kingdom,0,6,0,0,0,0,0,0
+Maurice Trintignant, France,0,84,82,0,2,10,1,72.330002
+Wolfgang von Trips, West Germany,0,29,27,1,2,6,0,56
+Jarno Trulli, Italy,0,256,252,4,1,11,1,246.5
+Yuki Tsunoda, Japan,0,90,87,0,0,0,1,91
+Esteban Tuero, Argentina,0,16,16,0,0,0,0,0
+Guy Tunmer, South Africa,0,1,1,0,0,0,0,0
+Jack Turner, United States,0,5,4,0,0,0,0,0
+Toni Ulmen, West Germany,0,2,2,0,0,0,0,0
+Bobby Unser, United States,0,2,1,0,0,0,0,0
+Jerry Unser Jr., United States,0,1,1,0,0,0,0,0
+Alberto Uría, Uruguay,0,2,2,0,0,0,0,0
+Nino Vaccarella, Italy,0,5,4,0,0,0,0,0
+Stoffel Vandoorne, Belgium,0,42,41,0,0,0,0,26
+Bob Veith, United States,0,5,5,0,0,0,0,0
+Jean-Éric Vergne, France,0,58,58,0,0,0,0,51
+Jos Verstappen, Netherlands,0,107,106,0,0,2,0,17
+Max Verstappen, Netherlands,4,209,209,40,63,112,33,3023.5
+Sebastian Vettel, Germany,4,300,299,57,53,122,38,3098
+Gilles Villeneuve, Canada,0,68,67,2,6,13,8,101
+Jacques Villeneuve, Canada,1,165,163,13,11,23,9,235
+Jacques Villeneuve Sr., Canada,0,3,0,0,0,0,0,0
+Luigi Villoresi, Italy,0,34,31,0,0,8,1,46
+Emilio de Villota, Spain,0,15,2,0,0,0,0,0
+Ottorino Volonterio,Switzerland,0,3,3,0,0,0,0,0
+Jo Vonlanthen,Switzerland,0,1,1,0,0,0,0,0
+Ernie de Vos, Canada,0,1,0,0,0,0,0,0
+Nyck de Vries, Netherlands,0,11,11,0,0,0,0,2
+Bill Vukovich, United States,0,6,5,1,2,2,3,19
+Syd van der Vyver, South Africa,0,1,0,0,0,0,0,0
+Fred Wacker, United States,0,5,3,0,0,0,0,0
+David Walker, Australia,0,11,11,0,0,0,0,0
+Peter Walker, United Kingdom,0,4,4,0,0,0,0,0
+Lee Wallard, United States,0,3,2,0,1,1,1,9
+Heini Walter,Switzerland,0,1,1,0,0,0,0,0
+Rodger Ward, United States,0,12,12,0,1,2,0,14
+Derek Warwick, United Kingdom,0,162,147,0,0,4,2,71
+John Watson, United Kingdom,0,154,152,2,5,20,5,169
+Spider Webb, United States,0,5,4,0,0,0,0,0
+Mark Webber, Australia,0,217,215,13,9,42,19,1047.5
+Pascal Wehrlein, Germany,0,40,39,0,0,0,0,6
+Volker Weidler, West Germany,0,10,0,0,0,0,0,0
+Wayne Weiler, United States,0,1,1,0,0,0,0,0
+Karl Wendlinger, Austria,0,42,41,0,0,0,0,14
+Peter Westbury, United Kingdom,0,2,1,0,0,0,0,0
+Chuck Weyant, United States,0,6,4,0,0,0,0,0
+Ken Wharton, United Kingdom,0,16,15,0,0,0,0,3
+Ted Whiteaway, United Kingdom,0,1,0,0,0,0,0,0
+Graham Whitehead, United Kingdom,0,1,1,0,0,0,0,0
+Peter Whitehead, United Kingdom,0,12,10,0,0,1,0,4
+Bill Whitehouse, United Kingdom,0,1,1,0,0,0,0,0
+Robin Widdows, United Kingdom,0,1,1,0,0,0,0,0
+Eppie Wietzes, Canada,0,2,2,0,0,0,0,0
+Mike Wilds, United Kingdom,0,8,3,0,0,0,0,0
+Jonathan Williams, United Kingdom,0,1,1,0,0,0,0,0
+Roger Williamson, United Kingdom,0,2,2,0,0,0,0,0
+Dempsey Wilson, United States,0,5,2,0,0,0,0,0
+Desiré Wilson, South Africa,0,1,0,0,0,0,0,0
+Justin Wilson, United Kingdom,0,16,16,0,0,0,0,1
+Vic Wilson, United Kingdom,0,2,1,0,0,0,0,0
+Joachim Winkelhock, West Germany,0,7,0,0,0,0,0,0
+Manfred Winkelhock, West Germany,0,56,47,0,0,0,0,2
+Markus Winkelhock, Germany,0,1,1,0,0,0,0,0
+Reine Wisell, Sweden,0,23,22,0,0,1,0,13
+Roelof Wunderink, Netherlands,0,6,3,0,0,0,0,0
+Alexander Wurz, Austria,0,69,69,0,0,3,1,45
+Sakon Yamamoto, Japan,0,21,21,0,0,0,0,0
+Alex Yoong, Malaysia,0,18,14,0,0,0,0,0
+Alessandro Zanardi, Italy,0,44,41,0,0,0,0,1
+Emilio Zapico, Spain,0,1,0,0,0,0,0,0
+Zhou Guanyu, China,0,68,68,0,0,0,2,16
+Ricardo Zonta, Brazil,0,37,36,0,0,0,0,3
+Renzo Zorzi, Italy,0,7,7,0,0,0,0,1
+Ricardo Zunino, Argentina,0,11,10,0,0,0,0,0
