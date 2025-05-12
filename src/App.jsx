@@ -69,7 +69,9 @@ function App() {
               setMaxVal(value);
               event.target.value = value.toString();
             }}
-            className="thumb thumbRight"
+            className={classnames("thumb thumbRight", {
+              "thumbOver": maxVal < min + 20
+            })}
           />
           <div className="slider">
               <div className="sliderTrack"/>
