@@ -95,6 +95,9 @@ function App() {
   //tracks when order is changed by flipping between true and false
   const [changeOrder, setChangeOrder] = useState(false);
 
+  //tracks scroll position of table
+  const tableScroll = useRef(null);
+
   //store slider values
 
   const champMin = useRef(null);
@@ -202,6 +205,9 @@ function App() {
 
   //retrieve list of drivers from sql server, passing in criteria
   const getData = async () => {
+    if (tableScroll.current) {
+        tableScroll.current.scrollTop = 0;
+    }
     const data = await fetch('/api', {
       method: 'POST',
       headers: {
@@ -311,7 +317,7 @@ function App() {
       <button onClick={() => getData()}>Search</button>
 
       {/* Display information for the drivers that fit the criteria in a table */}
-      <table>
+      <table ref={tableScroll}>
         <tbody>
           <tr className="ListHeader">
             <th><button onClick={() => handleOrderBy('Name')}>Name</button></th>
