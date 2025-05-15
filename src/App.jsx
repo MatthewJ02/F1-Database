@@ -90,7 +90,7 @@ function App() {
   const [orderBy, setOrderBy] = useState('Name');
 
   //sort in descending or ascending order
-  const [desc, setDesc] = useState('DESC');
+  const [desc, setDesc] = useState('ASC');
   
   //tracks when order is changed by flipping between true and false
   const [changeOrder, setChangeOrder] = useState(false);
@@ -176,7 +176,11 @@ function App() {
       setDesc(desc == 'DESC' ? 'ASC' : 'DESC');
     } else {
       setOrderBy(column);
-      setDesc('DESC');
+      if (column == 'Name' || column == 'Nationality') {
+        setDesc('ASC');
+      } else {
+        setDesc('DESC');
+      }
     }
     setChangeOrder(!changeOrder);
   }

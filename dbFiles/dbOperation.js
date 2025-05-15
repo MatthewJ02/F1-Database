@@ -22,8 +22,9 @@ const getDrivers = async(Name, Nationality, champMin, champMax, entryMin, entryM
 
         if (orderBy != null) {
             if (orderBy == 'Name') {
+                query += ` ORDER BY LASTNAME ${desc}`;
             } else {
-                query += ` ORDER BY ${orderBy} ${desc}`;
+                query += ` ORDER BY ${orderBy} ${desc}, LASTNAME ASC`;
             }
         }
         
