@@ -5,7 +5,7 @@ const config              = require('./dbConfig'),
 const getDrivers = async(Name, Nationality, champMin, champMax, entryMin, entryMax, startMin, startMax, poleMin, poleMax, winMin, winMax, podiumMin, podiumMax, fastestMin, fastestMax, pointMin, pointMax, orderBy, desc) => {
     try {
         let pool = await sql.connect(config);
-        let query = `SELECT * from New_Formula WHERE Name LIKE '%${Name}%'`;
+        let query = `SELECT * from Driver_Database WHERE Name LIKE '%${Name}%'`;
 
         if (Nationality != '') {
             query += ` AND Nationality LIKE '%${Nationality}%'`;

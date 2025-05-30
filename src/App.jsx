@@ -7,6 +7,41 @@ function App() {
 
   //***** VARIABLES *****//
 
+  //Compare bar color values
+  const leftColor = `#535bf2`;
+  const rightColor = `#d10a0a`;
+  const defaultColor = `#b4b8bd`;
+
+  //Visually compare a statistic for two drivers in the head to head section
+  const CompareBar = ({leftVal, rightVal}) => {
+    const leftPercent = leftVal == 0 ? 0 : leftVal / (leftVal + rightVal) * 100;
+    const rightPercent = rightVal == 0 ? 0 : 100 - leftPercent;
+
+    const compareBarColor = rightVal == 0 ? leftVal == 0 ? defaultColor : leftColor : rightColor;
+
+    const leftRadius = leftVal == 0 ? 8 : 0;
+    const rightRadius = rightVal == 0 ? 8 : 0;
+
+    const leftMin = leftVal == 0 ? 0 : 0;
+    const rightMin = rightVal == 0 ? 0 : 8;
+
+    const leftMinStyle = `${leftMin}px`;
+    const rightMinStyle = `${rightMin}px`;
+
+    const leftRadStyle = `${leftRadius}px`;
+    const rightRadStyle = `${rightRadius}px`;
+
+    const leftWidth = `${leftPercent}%`;
+    const rightWidth = `${rightPercent}%`;
+
+    return (
+      <div className="CompareBar" style={{backgroundColor: compareBarColor}}>
+        <div className="A-Bar" style={{width: leftWidth, borderTopRightRadius: rightRadStyle, borderBottomRightRadius: rightRadStyle, minWidth: leftMinStyle}}></div>
+        <div className="B-Bar" style={{width: rightWidth, borderTopLeftRadius: leftRadStyle, borderBottomLeftRadius: leftRadStyle, minWidth: rightMinStyle}}></div>
+      </div>
+    )
+  };
+
   //Select min and max values on one slider
   const DoubleSlider = ({min, max, minValRef, maxValRef}) => {
     const [minVal, setMinVal] = useState(minValRef && minValRef.current ? minValRef.current.value : min);
@@ -152,21 +187,19 @@ function App() {
   //display results if more than zero drivers found
   var results = returnedData.length > 0 ? returnedData.map((val) => {
     return (
-      <tbody>
-        <tr key={val.Name}>
-          <td>{val.Name}</td>
-          <td>{val.Nationality}</td>
-          <td>{val.Championships}</td>
-          <td>{val.Entries}</td>
-          <td>{val.Starts}</td>
-          <td>{val.Poles}</td>
-          <td>{val.Wins}</td>
-          <td>{val.Podiums}</td>
-          <td>{val.Fastest}</td>
-          <td>{Math.round((val.Points + Number.EPSILON) * 100) / 100 | ''}</td>
-          <td className="KeepDark"><button onClick={() => addHeadToHead(val)}>+</button></td>
-        </tr>
-      </tbody>
+      <tr key={val.Name}>
+        <td>{val.Name}</td>
+        <td>{val.Nationality}</td>
+        <td>{val.Championships}</td>
+        <td>{val.Entries}</td>
+        <td>{val.Starts}</td>
+        <td>{val.Poles}</td>
+        <td>{val.Wins}</td>
+        <td>{val.Podiums}</td>
+        <td>{val.Fastest}</td>
+        <td>{val.Points * 10 == Math.round(val.Points * 10) ? val.Points : val.Points.toFixed(2)}</td>
+        <td className="KeepDark"><button className="ButtonDefault" onClick={() => addHeadToHead(val)}>+</button></td>
+      </tr>
     )
   }) : driverNotFound();
 
@@ -191,8 +224,8 @@ function App() {
   }, [changeOrder]);
 
   //stores information for drivers compared in the head to head
-  const [driverA, setDriverA] = useState({Name: '', Nationality: '', Championships: -1, Entries: -1, Starts: -1, Poles: -1, Wins: -1, Podiums: -1, Fastest: -1, Points: -1.0});
-  const [driverB, setDriverB] = useState({Name: '', Nationality: '', Championships: -1, Entries: -1, Starts: -1, Poles: -1, Wins: -1, Podiums: -1, Fastest: -1, Points: -1.0});
+  const [driverA, setDriverA] = useState({Name: '', Nationality: '', Championships: 0, Entries: 0, Starts: 0, Poles: 0, Wins: 0, Podiums: 0, Fastest: 0, Points: 0.0});
+  const [driverB, setDriverB] = useState({Name: '', Nationality: '', Championships: 0, Entries: 0, Starts: 0, Poles: 0, Wins: 0, Podiums: 0, Fastest: 0, Points: 0.0});
 
   //stores name and nationality for the inputted driver information
   const [driverTextInput, setDriverTextInput] = useState({Name: '', Nationality: ''});
@@ -249,6 +282,8 @@ function App() {
 
   return (
     <div className="App">
+      {/* Title */}
+      <h1>F1 Database</h1>
       {/* Inputs for finding drivers by criteria */}
       <input  
         name="Name"   
@@ -318,23 +353,23 @@ function App() {
       />
       
       {/* Request list of drivers fitting criteria from sql server */}
-      <button onClick={() => getData()}>Search</button>
+      <button className="ButtonDefault" onClick={() => getData()}>Search</button>
 
       {/* Display information for the drivers that fit the criteria in a table */}
       <table ref={tableScroll}>
         <tbody>
           <tr className="ListHeader">
-            <th><button onClick={() => handleOrderBy('Name')}>Name</button></th>
-            <th><button onClick={() => handleOrderBy('Nationality')}>Nationality</button></th>
-            <th><button onClick={() => handleOrderBy('Championships')}>Championships</button></th>
-            <th><button onClick={() => handleOrderBy('Entries')}>Entries</button></th>
-            <th><button onClick={() => handleOrderBy('Starts')}>Starts</button></th>
-            <th><button onClick={() => handleOrderBy('Poles')}>Poles</button></th>
-            <th><button onClick={() => handleOrderBy('Wins')}>Wins</button></th>
-            <th><button onClick={() => handleOrderBy('Podiums')}>Podiums</button></th>
-            <th><button onClick={() => handleOrderBy('Fastest')}>Fastest Laps</button></th>
-            <th><button onClick={() => handleOrderBy('Points')}>Points</button></th>
-            <th><button>Add</button></th>
+            <th><button className="ButtonDefault" onClick={() => handleOrderBy('Name')}>Name</button></th>
+            <th><button className="ButtonDefault" onClick={() => handleOrderBy('Nationality')}>Nationality</button></th>
+            <th><button className="ButtonDefault" onClick={() => handleOrderBy('Championships')}>Championships</button></th>
+            <th><button className="ButtonDefault" onClick={() => handleOrderBy('Entries')}>Entries</button></th>
+            <th><button className="ButtonDefault" onClick={() => handleOrderBy('Starts')}>Starts</button></th>
+            <th><button className="ButtonDefault" onClick={() => handleOrderBy('Poles')}>Poles</button></th>
+            <th><button className="ButtonDefault" onClick={() => handleOrderBy('Wins')}>Wins</button></th>
+            <th><button className="ButtonDefault" onClick={() => handleOrderBy('Podiums')}>Podiums</button></th>
+            <th><button className="ButtonDefault" onClick={() => handleOrderBy('Fastest')}>Fastest Laps</button></th>
+            <th><button className="ButtonDefault" onClick={() => handleOrderBy('Points')}>Points</button></th>
+            <th><button className="ButtonDefault">Add</button></th>
           </tr>
         </tbody>
         {results}
@@ -342,23 +377,112 @@ function App() {
 
       {/* Compare drivers against each other on their career stats */}
       <div className='HeadtoHead'>
-        <p>Head to Head</p>
-        <p>{driverA.Name} vs. {driverB.Name}</p>
-        <p>{driverA.Nationality} {driverB.Nationality}</p>
-        <p>Championships</p>
-        <p>{driverA.Championships} {driverB.Championships}</p>
-        <p>Wins</p>
-        <p>{driverA.Wins} {driverB.Wins}</p>
-        <p>Podiums</p>
-        <p>{driverA.Podiums} {driverB.Podiums}</p>
-        <p>Poles</p>
-        <p>{driverA.Poles} {driverB.Poles}</p>
-        <p>Fastest Laps</p>
-        <p>{driverA.Fastest} {driverB.Fastest}</p>
-        <p>Career Points</p>
-        <p>{driverA.Points} {driverB.Points}</p>
-        <button onClick={() => setDriverA({Name: '', Nationality: '', Championships: -1, Entries: -1, Starts: -1, Poles: -1, Wins: -1, Podiums: -1, Fastest: -1, Points: -1.0})}></button>
-        <button onClick={() => setDriverB({Name: '', Nationality: '', Championships: -1, Entries: -1, Starts: -1, Poles: -1, Wins: -1, Podiums: -1, Fastest: -1, Points: -1.0})}></button>
+        <h2>Head to Head</h2>
+        <div className="HeadtoHead-Top">
+          <button className="DeleteDriver" onClick={() => setDriverA({Name: '', Nationality: '', Championships: 0, Entries: 0, Starts: 0, Poles: 0, Wins: 0, Podiums: 0, Fastest: 0, Points: 0.0})}>Clear</button>
+          <div className="DriverA">
+            <h3>{driverA.Name}</h3>
+            <p>{driverA.Nationality}</p>
+          </div>
+          <div className="VsBlock">
+            <h3>vs.</h3>
+          </div>
+          <div className="DriverB">
+            <h3>{driverB.Name}</h3>
+            <p>{driverB.Nationality}</p>
+          </div>
+          <button className="DeleteDriver" onClick={() => setDriverB({Name: '', Nationality: '', Championships: 0, Entries: 0, Starts: 0, Poles: 0, Wins: 0, Podiums: 0, Fastest: 0, Points: 0.0})}>Clear</button>
+        </div>
+        <div className="HeadtoHead-Stat">
+          <h3>Championships</h3>
+          <CompareBar
+            leftVal={driverA.Championships}
+            rightVal={driverB.Championships}
+          />
+          <div className="CompareValues">
+            <div className="ValueA">
+              <p>{driverA.Championships}</p>
+            </div>
+            <div className="ValueB">
+              <p>{driverB.Championships}</p>
+            </div>
+          </div>
+        </div>
+        <div className="HeadtoHead-Stat">
+          <h3>Wins</h3>
+          <CompareBar
+            leftVal={driverA.Wins}
+            rightVal={driverB.Wins}
+          />
+          <div className="CompareValues">
+            <div className="ValueA">
+              <p>{driverA.Wins}</p>
+            </div>
+            <div className="ValueB">
+              <p>{driverB.Wins}</p>
+            </div>
+          </div>
+        </div>
+        <div className="HeadtoHead-Stat">
+          <h3>Podiums</h3>
+          <CompareBar
+            leftVal={driverA.Podiums}
+            rightVal={driverB.Podiums}
+          />
+          <div className="CompareValues">
+            <div className="ValueA">
+              <p>{driverA.Podiums}</p>
+            </div>
+            <div className="ValueB">
+              <p>{driverB.Podiums}</p>
+            </div>
+          </div>
+        </div>
+        <div className="HeadtoHead-Stat">
+          <h3>Poles</h3>
+          <CompareBar
+            leftVal={driverA.Poles}
+            rightVal={driverB.Poles}
+          />
+          <div className="CompareValues">
+            <div className="ValueA">
+              <p>{driverA.Poles}</p>
+            </div>
+            <div className="ValueB">
+              <p>{driverB.Poles}</p>
+            </div>
+          </div>
+        </div>
+        <div className="HeadtoHead-Stat">
+          <h3>Fastest Laps</h3>
+          <CompareBar
+            leftVal={driverA.Fastest}
+            rightVal={driverB.Fastest}
+          />
+          <div className="CompareValues">
+            <div className="ValueA">
+              <p>{driverA.Fastest}</p>
+            </div>
+            <div className="ValueB">
+              <p>{driverB.Fastest}</p>
+            </div>
+          </div>
+        </div>
+        <div className="HeadtoHead-Stat">
+          <h3>Career Points</h3>
+          <CompareBar
+            leftVal={driverA.Points}
+            rightVal={driverB.Points}
+          />
+          <div className="CompareValues">
+            <div className="ValueA">
+              <p>{driverA.Points}</p>
+            </div>
+            <div className="ValueB">
+              <p>{driverB.Points}</p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   )

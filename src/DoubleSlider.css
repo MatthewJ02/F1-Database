@@ -4,7 +4,7 @@
 }
 
 .container {
-    height: 100px;
+    height: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -14,18 +14,18 @@
 
 .sliderTrack, .sliderRange {
     border-radius: 3px;
-    height: 5px;
+    height: 10px;
     position: absolute;
 }
 
 .sliderTrack {
-    background-color: #ced4da;
+    background-color: #b4b8bd;
     width: 100%;
     z-index: 1;
 }
 
 .sliderRange {
-    background-color: #9fe5e1;
+    background-color: #333b6d;
     z-index: 2;
 }
 
@@ -39,7 +39,7 @@
     pointer-events: none;
     position: absolute;
     height: 0;
-    width: 91%;
+    width: 90%;
     outline: none;
 }
 
@@ -59,7 +59,7 @@
     cursor: pointer;
     height: 18px;
     width: 18px;
-    margin-top: 4px;
+    margin-top: 8.5px;
     pointer-events: all;
     position: relative;
 }

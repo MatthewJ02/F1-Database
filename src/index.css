@@ -1,11 +1,11 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #25262c;
+  color: rgba(250, 250, 250, 0.87);
+  background-color: #1a1e36;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -13,36 +13,26 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
+tr:nth-child(even) {
+  background-color: #333b6d;
 }
 
-tbody:nth-child(even) {
-  background-color: #53576d;
+p {
+  margin: 0;
 }
-
-
 
 .KeepDark {
-  background-color: #25262c;
+  background-color: #1a1e36;
 }
 
 body {
   display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
 }
 
 .ListHeader {
   position: sticky;
   top: 0;
-  background-color: #242424;
+  background-color: #1a1e36;
 }
 
 table {
@@ -51,8 +41,8 @@ table {
   overflow-y: scroll;
   display: block;
   scrollbar-width: none;
+  padding: 0rem 1.2rem;
 }
-
 
 h1 {
   font-size: 3.2em;
@@ -61,18 +51,23 @@ h1 {
 
 button {
   border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
+  border: 0px solid transparent;
+  padding: 0.6rem 1.2rem;
   font-weight: 500;
   font-family: inherit;
-  background-color: rgba(255, 255, 255, 0.87);
-  color: #1a1a1a;
+  background-color: rgba(250, 250, 250, 0.87);
+  color: #1a1e36;
   cursor: pointer;
   transition: 0.25s;
   white-space: nowrap;
+
+  font-size: inherit;
+}
+
+.ButtonDefault {
   width: 100%;
 }
+
 
 button:hover {
   background-color: #d10a0a;
@@ -83,14 +78,95 @@ button:active {
   transform: scale(.96);
 }
 
+h3 {
+  margin: 0;
+}
+
 .NormInput {
-  background-color: #53576d;
+  background-color: #333b6d;
   color: rgba(255, 255, 255, 0.87);
   border: 1px solid transparent;
   border-radius: 8px;
   padding: 0.6em 1.2em;
+  margin-bottom: 10px;
+  
+}
+
+::placeholder {
+  color: #a7a1a1;
+}
+
+.HeadtoHead {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.DriverA {
+  display: inline-block;
+  width: 30%;
+  text-align: left;
+  padding-left: 10%;
+  
+}
+
+.DriverB {
+  display: inline-block;
+  width: 30%;
+  text-align: right;
+  padding-right: 10%;
+}
+
+.VsBlock {
+  width: 30%;
+}
+
+.HeadtoHead-Top {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.HeadtoHead-Stat {
+  display: block;
+}
+
+.CompareValues {
+  display: flex;
 }
 
 
 
+.CompareBar {
+  height: 20px;
+  background-color: #b4b8bd;
+  display: flex;
+  border-radius: 8px;
+}
 
+.A-Bar {
+  background-color: #535bf2;
+  height: 100%;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.B-Bar {
+  background-color: #d10a0a;
+  height: 100%;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.ValueA {
+  text-align: left;
+  width: 50%;
+}
+
+.ValueB {
+  text-align: right;
+  width: 50%;
+}
+
+.DeleteDriver {
+  width: 10%;
+}
