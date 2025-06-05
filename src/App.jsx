@@ -7,6 +7,8 @@ function App() {
 
   //***** VARIABLES *****//
 
+  const width = `90vw`;
+
   //Compare bar color values
   const leftColor = `#535bf2`;
   const rightColor = `#d10a0a`;
@@ -19,11 +21,11 @@ function App() {
 
     const compareBarColor = rightVal == 0 ? leftVal == 0 ? defaultColor : leftColor : rightColor;
 
-    const leftRadius = leftVal == 0 ? 8 : 0;
-    const rightRadius = rightVal == 0 ? 8 : 0;
+    const leftRadius = leftVal == 0 ? 10 : 0;
+    const rightRadius = rightVal == 0 ? 10 : 0;
 
-    const leftMin = leftVal == 0 ? 0 : 0;
-    const rightMin = rightVal == 0 ? 0 : 8;
+    const leftMin = leftVal == 0 ? 0 : 10;
+    const rightMin = rightVal == 0 ? 0 : 10;
 
     const leftMinStyle = `${leftMin}px`;
     const rightMinStyle = `${rightMin}px`;
@@ -50,17 +52,21 @@ function App() {
     const range = useRef(null);
   
     const getPercent = useCallback(
-      (value) => Math.round(((value - min) / (max - min)) * 100), [min, max]
+      (value) => ((value - min) / (max - min)) * 100, [min, max]
     );
   
     useEffect(() => {
-      if (maxValRef.current) {
+      if (maxValRef.current && minValRef.current) {
         const minPercent = getPercent(minVal);
         const maxPercent = getPercent(+maxValRef.current.value);
-  
+
+        const leftOffset = minVal / max * 10;
+
+        const rightOffset = (max - maxVal) / max * 20;
+
         if (range.current) {
-          range.current.style.left = `${minPercent}%`;
-          range.current.style.width = `${maxPercent - minPercent}%`;
+          range.current.style.left = `calc(${minPercent}% - ${leftOffset}px)`;
+          range.current.style.width = `calc(${maxPercent - minPercent}% + ${rightOffset}px)`;
         }
       }
     }, [minVal, getPercent]);
@@ -69,9 +75,11 @@ function App() {
       if (minValRef.current) {
         const minPercent = getPercent(+minValRef.current.value);
         const maxPercent = getPercent(maxVal);
+
+        const offset = (max - maxVal) / max * 20;
   
         if (range.current) {
-          range.current.style.width = `${maxPercent - minPercent}%`;
+          range.current.style.width = `calc(${maxPercent - minPercent}% + ${offset}px)`;
         }
       }
     }, [maxVal, getPercent]);
@@ -90,7 +98,7 @@ function App() {
               event.target.value = value.toString();
             }}
             className={classnames("thumb thumbLeft", {
-              "thumbOver": minVal > max - 100
+              "thumbOver": minVal > max / 2
             })}
           />
           <input
@@ -105,7 +113,7 @@ function App() {
               event.target.value = value.toString();
             }}
             className={classnames("thumb thumbRight", {
-              "thumbOver": maxVal < min + 20
+              "thumbOver": maxVal < min * 2
             })}
           />
           <div className="slider">
@@ -170,8 +178,7 @@ function App() {
   //display empty set if no drivers are found
   const driverNotFound = () => {
     return (
-      <tbody>
-      </tbody>
+      <></>
     )
   }
 
@@ -188,17 +195,17 @@ function App() {
   var results = returnedData.length > 0 ? returnedData.map((val) => {
     return (
       <tr key={val.Name}>
-        <td>{val.Name}</td>
-        <td>{val.Nationality}</td>
-        <td>{val.Championships}</td>
-        <td>{val.Entries}</td>
-        <td>{val.Starts}</td>
-        <td>{val.Poles}</td>
-        <td>{val.Wins}</td>
-        <td>{val.Podiums}</td>
-        <td>{val.Fastest}</td>
-        <td>{val.Points * 10 == Math.round(val.Points * 10) ? val.Points : val.Points.toFixed(2)}</td>
-        <td className="KeepDark"><button className="ButtonDefault" onClick={() => addHeadToHead(val)}>+</button></td>
+        <td style={{width: `21vw`}}>{val.Name}</td>
+        <td style={{width: `12vw`}}>{val.Nationality}</td>
+        <td style={{width: `8vw`}}>{val.Championships}</td>
+        <td style={{width: `6vw`}}>{val.Entries}</td>
+        <td style={{width: `6vw`}}>{val.Starts}</td>
+        <td style={{width: `6vw`}}>{val.Poles}</td>
+        <td style={{width: `6vw`}}>{val.Wins}</td>
+        <td style={{width: `6vw`}}>{val.Podiums}</td>
+        <td style={{width: `11vw`}}>{val.Fastest}</td>
+        <td style={{width: `6vw`}}>{val.Points * 10 == Math.round(val.Points * 10) ? val.Points : val.Points.toFixed(2)}</td>
+        <td style={{width: `2vw`}} className="KeepDark"><button className="ButtonDefault" onClick={() => addHeadToHead(val)}>+</button></td>
       </tr>
     )
   }) : driverNotFound();
@@ -353,11 +360,11 @@ function App() {
       />
       
       {/* Request list of drivers fitting criteria from sql server */}
-      <button className="ButtonDefault" onClick={() => getData()}>Search</button>
+      <button className="ButtonSearch" onClick={() => getData()}>Search</button>
 
       {/* Display information for the drivers that fit the criteria in a table */}
       <table ref={tableScroll}>
-        <tbody>
+        <thead>
           <tr className="ListHeader">
             <th><button className="ButtonDefault" onClick={() => handleOrderBy('Name')}>Name</button></th>
             <th><button className="ButtonDefault" onClick={() => handleOrderBy('Nationality')}>Nationality</button></th>
@@ -371,8 +378,10 @@ function App() {
             <th><button className="ButtonDefault" onClick={() => handleOrderBy('Points')}>Points</button></th>
             <th><button className="ButtonDefault">Add</button></th>
           </tr>
-        </tbody>
+        </thead>
+        <tbody>
         {results}
+        </tbody>
       </table>
 
       {/* Compare drivers against each other on their career stats */}

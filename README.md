@@ -4,8 +4,6 @@ This project allows the user to search for Formula 1 drivers filtered by various
 
 This project uses React and Vite.
 
-This project is currently in progress.
-
 The dbConfig.js file allows the project to connect to a SQL server. I have omitted my login information from the file. The project can be recreated via SQL Server Management Studio. The Database.txt contains the data which comprises the SQL database used for this project.
 
 Running the project requires the command "nodemon server.js" to be run in one terminal and "npm run dev" to be run in another.

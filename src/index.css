@@ -25,10 +25,6 @@ p {
   background-color: #1a1e36;
 }
 
-body {
-  display: flex;
-}
-
 .ListHeader {
   position: sticky;
   top: 0;
@@ -36,17 +32,19 @@ body {
 }
 
 table {
-  max-height: 500px;
   margin-top: 100px;
+  padding-left: .2vw;
+  max-height: 500px;
   overflow-y: scroll;
-  display: block;
   scrollbar-width: none;
-  padding: 0rem 1.2rem;
+  display: block;
 }
+
 
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  margin-top: 1.1rem;
 }
 
 button {
@@ -68,10 +66,15 @@ button {
   width: 100%;
 }
 
+.ButtonSearch {
+  margin-top: 20px;
+  min-width: 90vw;
+}
+
 
 button:hover {
   background-color: #d10a0a;
-  color: rgba(255, 255, 255, 0.87);
+  color: rgba(250, 250, 250, 0.87);
 }
 
 button:active {
@@ -84,12 +87,11 @@ h3 {
 
 .NormInput {
   background-color: #333b6d;
-  color: rgba(255, 255, 255, 0.87);
+  color: rgba(250, 250, 250, 0.87);
   border: 1px solid transparent;
   border-radius: 8px;
   padding: 0.6em 1.2em;
   margin-bottom: 10px;
-  
 }
 
 ::placeholder {
@@ -140,21 +142,21 @@ h3 {
   height: 20px;
   background-color: #b4b8bd;
   display: flex;
-  border-radius: 8px;
+  border-radius: 10px;
 }
 
 .A-Bar {
   background-color: #535bf2;
   height: 100%;
-  border-top-left-radius: 8px;
-  border-bottom-left-radius: 8px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
 }
 
 .B-Bar {
   background-color: #d10a0a;
   height: 100%;
-  border-top-right-radius: 8px;
-  border-bottom-right-radius: 8px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 .ValueA {
@@ -169,4 +171,7 @@ h3 {
 
 .DeleteDriver {
   width: 10%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: auto;
 }
